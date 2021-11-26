@@ -1,6 +1,7 @@
 let prenoms = ["pierre","paul","jacques"];
 
-document.getElementById('viewport'). = ;
+
+document.getElementById('viewport').innerHTML = prenoms.length ;
 
 
 
